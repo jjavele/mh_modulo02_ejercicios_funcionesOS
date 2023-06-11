@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerTable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+}
+
+table, th, td, tr{
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    padding: 1px;
+
+
+}
